@@ -33,6 +33,8 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ### 1️⃣ Visão Executiva
 
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/e561c0df-3e96-4912-8e03-3639562f78ce" />
+
 Página destinada ao acompanhamento dos principais indicadores do negócio.
 
 **KPIs:**
