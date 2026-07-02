@@ -1,4 +1,4 @@
-# 📊 Dashboard de Gestão Empresarial em Power BI
+# Dashboard de Gestão Empresarial em Power BI
 
 <p align="center">
   <img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
@@ -8,7 +8,7 @@
   Disponível em: (https://sl1nk.com/4etljz6)
 </p>
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho financeiro, comercial e operacional de uma empresa fictícia através do Power BI.
 
@@ -16,7 +16,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Monitorar receitas, despesas e lucro.
 - Avaliar o atingimento das metas financeiras.
@@ -27,7 +27,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - Power BI
 - Power Query
@@ -37,9 +37,9 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 📂 Estrutura do Dashboard
+## Estrutura do Dashboard
 
-### 1️⃣ Visão Executiva
+### Visão Executiva
 
 <p align="center">
   <img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/df145830-e534-4b0d-b43b-750e3eeb1eb0" />
@@ -64,7 +64,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-### 2️⃣ Performance Financeira
+### Performance Financeira
 
 <p align="center">
   <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/1c2d44e6-674c-4d9b-8f18-ac27f3d94c35" />
@@ -88,7 +88,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-### 3️⃣ Análise Comercial
+### Análise Comercial
 
 <p align="center">
   <img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/cc208567-d757-43b3-8107-ca5d5b2cbcab" />
@@ -111,7 +111,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-### 4️⃣ Gestão de Custos e Despesas
+### Gestão de Custos e Despesas
 
 <p align="center">
   <img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/c9691180-f249-42ce-8791-988901614dbe" />
@@ -136,7 +136,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 📈 Principais Insights
+## Principais Insights
 
 - A empresa atingiu **100,94% da meta anual**.
 - Receita total de **R$ 18,05 milhões**.
@@ -149,7 +149,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 🧠 Competências Demonstradas
+## Competências Demonstradas
 
 - Modelagem de Dados
 - Criação de Calendário Dimensional
@@ -163,7 +163,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Leandro Machado Leite**
 
