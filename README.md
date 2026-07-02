@@ -33,7 +33,7 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ### 1️⃣ Visão Executiva
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/e561c0df-3e96-4912-8e03-3639562f78ce" />
+<img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/df145830-e534-4b0d-b43b-750e3eeb1eb0" />
 
 Página destinada ao acompanhamento dos principais indicadores do negócio.
 
@@ -56,7 +56,7 @@ Página destinada ao acompanhamento dos principais indicadores do negócio.
 
 Página focada na evolução financeira da empresa.
 
-<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/617bf874-f8a0-437d-bdc4-7bb9a6c6c346" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/1c2d44e6-674c-4d9b-8f18-ac27f3d94c35" />
 
 **KPIs:**
 - Receita Total
