@@ -162,6 +162,12 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ---
 
+## Disponibilidade
+
+É possível acessar a versão online do dashboard através deste link: (https://sl1nk.com/4etljz6)
+
+---
+
 ## Autor
 
 **Leandro Machado Leite**
