@@ -74,6 +74,8 @@ Página focada na evolução financeira da empresa.
 
 ### 3️⃣ Análise Comercial
 
+<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/cc208567-d757-43b3-8107-ca5d5b2cbcab" />
+
 Página voltada para análise de clientes e produtos.
 
 **KPIs:**
@@ -90,6 +92,8 @@ Página voltada para análise de clientes e produtos.
 ---
 
 ### 4️⃣ Gestão de Custos e Despesas
+
+<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/c9691180-f249-42ce-8791-988901614dbe" />
 
 Página destinada ao acompanhamento dos gastos da empresa.
 
@@ -132,30 +136,6 @@ Página destinada ao acompanhamento dos gastos da empresa.
 - Design de Dashboards
 - Navegação Interativa
 - Segmentação de Dados (Filtros)
-
----
-
-## 📸 Screenshots
-
-### Visão Executiva
-
-![Visão Executiva](<img width="1280" height="718" alt="Captura de tela 2026-06-29 112708" src="https://github.com/user-attachments/assets/95c27208-d3ce-4c5a-bed6-e87808810049" />
-)
-
-### Performance Financeira
-
-![Performance Financeira](<img width="1424" height="800" alt="Captura de tela 2026-06-29 112804" src="https://github.com/user-attachments/assets/c5b643f2-0a31-4e5e-938c-4bf53b2b6094" />
-)
-
-### Análise Comercial
-
-![Análise Comercial](<img width="1280" height="722" alt="Captura de tela 2026-06-29 112819" src="https://github.com/user-attachments/assets/cb06ce61-431c-463e-833f-8d718381c4cf" />
-)
-
-### Gestão de Custos e Despesas
-
-![Gestão de Custos](<img width="1407" height="792" alt="Captura de tela 2026-06-29 120330" src="https://github.com/user-attachments/assets/1a853211-3a85-4621-85ce-55231eb154b9" />
-)
 
 ---
 
