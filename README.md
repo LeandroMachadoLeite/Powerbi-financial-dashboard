@@ -1,6 +1,8 @@
 # 📊 Dashboard de Gestão Empresarial em Power BI
 
-<img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
+<p align="center">
+  <img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
+</p>
 
 ## 📌 Sobre o Projeto
 
@@ -35,9 +37,13 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 
 ### 1️⃣ Visão Executiva
 
-<img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/df145830-e534-4b0d-b43b-750e3eeb1eb0" />
+<p align="center">
+  <img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/df145830-e534-4b0d-b43b-750e3eeb1eb0" />
+</p>
 
-Página destinada ao acompanhamento dos principais indicadores do negócio.
+<p align="center">
+  Página destinada ao acompanhamento dos principais indicadores do negócio.
+</p>
 
 **KPIs:**
 - Receita Total
@@ -56,9 +62,13 @@ Página destinada ao acompanhamento dos principais indicadores do negócio.
 
 ### 2️⃣ Performance Financeira
 
-Página focada na evolução financeira da empresa.
+<p align="center">
+  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/1c2d44e6-674c-4d9b-8f18-ac27f3d94c35" />
+</p>
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/1c2d44e6-674c-4d9b-8f18-ac27f3d94c35" />
+<p align="center">
+  Página focada na evolução financeira da empresa.
+</p>
 
 **KPIs:**
 - Receita Total
@@ -76,9 +86,13 @@ Página focada na evolução financeira da empresa.
 
 ### 3️⃣ Análise Comercial
 
-<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/cc208567-d757-43b3-8107-ca5d5b2cbcab" />
+<p align="center">
+  <img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/cc208567-d757-43b3-8107-ca5d5b2cbcab" />
+</p>
 
-Página voltada para análise de clientes e produtos.
+<p align="center">
+  Página voltada para análise de clientes e produtos.
+</p>
 
 **KPIs:**
 - Receita Total
@@ -95,9 +109,13 @@ Página voltada para análise de clientes e produtos.
 
 ### 4️⃣ Gestão de Custos e Despesas
 
-<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/c9691180-f249-42ce-8791-988901614dbe" />
+<p align="center">
+  <img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/c9691180-f249-42ce-8791-988901614dbe" />
+</p>
 
-Página destinada ao acompanhamento dos gastos da empresa.
+<p align="center">
+  Página destinada ao acompanhamento dos gastos da empresa.
+</p>
 
 **KPIs:**
 - Despesa Total
@@ -149,4 +167,4 @@ Estudante de Administração com interesse em Análise de Dados, Business Intell
 
 LinkedIn: (https://www.linkedin.com/in/leandro-machado-leite-93a714282/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYFHaoY6yRcWtpP331rB0Ew%3D%3D)
 
-GitHub: (adicione seu perfil)
+GitHub: (https://github.com/LeandroMachadoLeite)
