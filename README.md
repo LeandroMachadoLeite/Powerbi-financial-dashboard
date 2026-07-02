@@ -4,6 +4,10 @@
   <img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
 </p>
 
+<p align="center">
+  Disponível em: (https://sl1nk.com/4etljz6)
+</p>
+
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho financeiro, comercial e operacional de uma empresa fictícia através do Power BI.
