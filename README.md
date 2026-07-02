@@ -33,7 +33,6 @@ O dashboard foi construído utilizando modelagem dimensional, Power Query, DAX e
 - Power Query
 - DAX
 - Excel
-- GitHub
 
 ---
 
