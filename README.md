@@ -1,5 +1,7 @@
 # 📊 Dashboard de Gestão Empresarial em Power BI
 
+<img width="800" height="449" alt="Image" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
+
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho financeiro, comercial e operacional de uma empresa fictícia através do Power BI.
