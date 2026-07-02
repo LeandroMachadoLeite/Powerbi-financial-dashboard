@@ -56,6 +56,8 @@ Página destinada ao acompanhamento dos principais indicadores do negócio.
 
 Página focada na evolução financeira da empresa.
 
+<img width="800" height="448" alt="Image" src="https://github.com/user-attachments/assets/617bf874-f8a0-437d-bdc4-7bb9a6c6c346" />
+
 **KPIs:**
 - Receita Total
 - Lucro Acumulado
