@@ -1,4 +1,4 @@
-# Dashboard de Gestão Empresarial em Power BI
+# Dashboard Financeiro e Comercial em Power BI
 
 <p align="center">
   <img width="800" height="449" alt="Dashboard de Gestão Empresarial" src="https://github.com/user-attachments/assets/d38ddec1-ad09-450a-a6a2-288593adc10f" />
